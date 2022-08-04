@@ -1,0 +1,6 @@
+20:58:47.839 [main] INFO  com.inetBanking.testCase.BaseClass - Driver is initialise
+20:58:48.611 [main] INFO  com.inetBanking.testCase.BaseClass - User name is entered
+20:58:48.783 [main] INFO  com.inetBanking.testCase.BaseClass - Password is enterd
+20:59:17.120 [main] INFO  com.inetBanking.testCase.BaseClass - Titel is verify
+20:59:17.317 [AsyncHttpClient-1-4] TRACE io.netty.handler.codec.http.websocketx.WebSocket08FrameEncoder - Encoding WebSocket Frame opCode=8 length=26
+21:00:14.099 [main] INFO  com.inetBanking.testCase.BaseClass - Driver is initialise
